@@ -3,7 +3,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 ReactDOM.render(
-  <Hello />,
+  <Hello name='Freewind' number='99a' />,
   document.getElementById("content")
 );
 
